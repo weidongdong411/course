@@ -31,3 +31,5 @@ bin/
 .DS_Store
 
 *.zip
+/src/**/inputFiles/
+/src/course4-collinear/LineSegment.java
